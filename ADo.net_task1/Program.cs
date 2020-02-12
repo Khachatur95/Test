@@ -37,7 +37,7 @@ namespace ADo.net_task1
 
             // DataReader(connectionString);
             SkaLyarData(connectionString);
-
+            Console.WriteLine("First Change in Git");
 
         }
 
